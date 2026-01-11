@@ -4,7 +4,7 @@ The project uses a Logistic Regression model and is built with Python and Stream
 
 🌐 Live Demo
 👉 Live App Link:
- https://itsmuskan14.github.io/diabetes-prediction-app/
+https://diabetes-prediction-app-fx2qcetfvf9sfekorgrebx.streamlit.app/
 
 ⚙️ Technologies Used
 
