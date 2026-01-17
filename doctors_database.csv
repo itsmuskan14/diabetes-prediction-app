@@ -1,0 +1,118 @@
+name,type,specialty,city,state,country,address,phone,lat,lon,rating,website
+Apollo Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"Parsik Hill Road, Sector 23, CBD Belapur, Navi Mumbai",+91-22-39267700,19.0176,73.0322,4.5,https://www.apollohospitals.com
+Jaslok Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"15, Dr. Deshmukh Marg, Peddar Road, Mumbai",+91-22-66573333,18.9648,72.8081,4.4,https://www.jaslokhospital.net
+Lilavati Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"A-791, Bandra Reclamation, Bandra West, Mumbai",+91-22-26567891,19.0544,72.8258,4.6,https://www.lilavatihospital.com
+Kokilaben Dhirubhai Ambani Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"Rao Saheb Achutrao Patwardhan Marg, Four Bungalows, Andheri West, Mumbai",+91-22-30999999,19.1258,72.8314,4.7,https://www.kokilabenhospital.com
+Fortis Hospital Mulund,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"Mulund Goregaon Link Road, Mulund West, Mumbai",+91-22-67914444,19.1722,72.9561,4.3,https://www.fortishealthcare.com
+Dr. Shashank Shah,Clinic,Endocrinologist,Mumbai,Maharashtra,India,"Breach Candy Hospital, 60A, Bhulabhai Desai Road, Mumbai",+91-22-23667788,18.9737,72.8011,4.8,N/A
+Dr. Pradeep Gadge,Clinic,Diabetologist,Mumbai,Maharashtra,India,"Gadge Diabetes Centre, Tilak Road, Ghatkopar East, Mumbai",+91-22-25011749,19.0863,72.9081,4.7,https://www.gadgediabetescentre.com
+Dr. Jothydev Kesavadev,Clinic,Endocrinologist,Mumbai,Maharashtra,India,"Jothydev's Diabetes Research Centre, Parel, Mumbai",+91-22-24157000,19.0030,72.8397,4.6,N/A
+Hinduja Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"Veer Savarkar Marg, Mahim, Mumbai",+91-22-24447000,19.0380,72.8396,4.5,https://www.hindujahosp.com
+Breach Candy Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"60-A, Bhulabhai Desai Road, Mumbai",+91-22-23667788,18.9737,72.8011,4.4,https://www.breachcandyhospital.org
+Nanavati Super Speciality Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"S.V. Road, Vile Parle West, Mumbai",+91-22-26266888,19.1015,72.8347,4.6,https://www.nanavati.com
+Bombay Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"12, New Marine Lines, Mumbai",+91-22-22067676,18.9482,72.8254,4.3,https://www.bombayhospital.com
+Saifee Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"15/17, Maharshi Karve Marg, Charni Road, Mumbai",+91-22-67933333,18.9547,72.8194,4.4,https://www.saifeehospital.com
+Wockhardt Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"1877, Doctor Anandrao Nair Marg, Mumbai Central, Mumbai",+91-22-24959595,18.9750,72.8197,4.5,https://www.wockhardthospitals.com
+Holy Family Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"St. Andrew's Road, Bandra West, Mumbai",+91-22-26431515,19.0596,72.8295,4.3,https://www.holyfamilyhospital.org
+Dr. Balaji Tambe Clinic,Clinic,Ayurvedic Diabetologist,Mumbai,Maharashtra,India,"Atmasantulana Village, Karjat, Mumbai",+91-22-27482277,18.9108,73.3230,4.5,https://www.atmasantulana.com
+Tata Memorial Hospital,Hospital,Oncology & Endocrinology,Mumbai,Maharashtra,India,"Dr. Ernest Borges Marg, Parel, Mumbai",+91-22-24177000,19.0030,72.8428,4.7,https://www.tmc.gov.in
+Dr. LH Hiranandani Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"Hillside Avenue, Hiranandani Gardens, Powai, Mumbai",+91-22-25763500,19.1197,72.9089,4.6,https://www.hiranandanihospital.org
+Bhatia Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"Tardeo Road, Grant Road West, Mumbai",+91-22-66523651,18.9670,72.8113,4.2,https://www.bhatiahospital.org
+SRV Hospital,Hospital,Multi-Specialty,Mumbai,Maharashtra,India,"SV Road, Goregaon West, Mumbai",+91-22-28767676,19.1626,72.8398,4.4,N/A
+MGM Hospital,Hospital,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Plot No. 1, Sector 1, Kamothe, Navi Mumbai",+91-22-27436000,19.0245,73.1030,4.5,https://www.mgmhospital.in
+D Y Patil Hospital,Hospital,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Sector 5, Nerul, Navi Mumbai",+91-22-27709000,19.0330,73.0297,4.4,https://www.dypatil.edu
+Fortis Hospital Vashi,Hospital,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Plot No. 3, Sector 10A, Vashi, Navi Mumbai",+91-22-71406500,19.0759,72.9988,4.6,https://www.fortishealthcare.com
+Sterling Hospital,Hospital,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Plot No. 8A, Sector 13, Vashi, Navi Mumbai",+91-22-49723000,19.0650,72.9987,4.3,https://www.sterlinghospitals.com
+Medicover Hospital,Hospital,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Plot No. 9, Sector 17, Vashi, Navi Mumbai",+91-22-68506850,19.0735,73.0072,4.4,https://www.medicoverhospitals.in
+Dr. Pramod Tripathi,Clinic,Endocrinologist,Navi Mumbai,Maharashtra,India,"Freedom Clinic, Sector 10, Kharghar, Navi Mumbai",+91-22-27741122,19.0433,73.0693,4.7,https://www.freedomfromdiabetes.org
+Shreeji Hospital,Hospital,General Medicine,Navi Mumbai,Maharashtra,India,"Plot No. 18, Sector 20, Ulwe, Navi Mumbai",+91-22-27480123,18.9820,73.0285,4.2,N/A
+Apollo Clinic Kharghar,Clinic,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Sector 20, Kharghar, Navi Mumbai",+91-22-27740222,19.0398,73.0705,4.5,https://www.apolloclinic.com
+Apex Hospital,Hospital,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Plot No. 12, Sector 15, Palm Beach Road, Sanpada, Navi Mumbai",+91-22-27813000,19.0698,72.9965,4.3,N/A
+Terna Speciality Hospital,Hospital,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Sector 12, Nerul, Navi Mumbai",+91-22-40095000,19.0330,73.0175,4.4,https://www.ternahospital.com
+Dr. Balaji Hospital,Hospital,Diabetology,Navi Mumbai,Maharashtra,India,"Plot No. 8, Sector 23, CBD Belapur, Navi Mumbai",+91-22-27562345,19.0190,73.0315,4.3,N/A
+Kamothe Diabetes Centre,Clinic,Diabetologist,Navi Mumbai,Maharashtra,India,"Sector 5, Kamothe, Navi Mumbai",+91-22-27430987,19.0196,73.1024,4.4,N/A
+SevenHills Hospital,Hospital,Multi-Specialty,Navi Mumbai,Maharashtra,India,"Sector 10, Mahatma Gandhi Road, Vashi, Navi Mumbai",+91-22-39263444,19.0759,72.9995,4.5,https://www.sevenhillshealthcare.com
+Dr. Rajesh Jain Clinic,Clinic,Endocrinologist,Navi Mumbai,Maharashtra,India,"Sector 11, Belapur, Navi Mumbai",+91-22-27560234,19.0168,73.0288,4.6,N/A
+Khopoli Primary Health Centre,Clinic,General Medicine,Khopoli,Maharashtra,India,"Station Road, Khopoli, Raigad",+91-2192-273045,18.7859,73.3469,3.8,N/A
+Shreyas Hospital,Hospital,Multi-Specialty,Khopoli,Maharashtra,India,"Mumbai-Pune Highway, Khopoli",+91-2192-274500,18.7876,73.3451,4.2,N/A
+Dr. Patil's Clinic,Clinic,Diabetologist,Khopoli,Maharashtra,India,"Near Railway Station, Khopoli",+91-2192-273012,18.7869,73.3465,4.0,N/A
+Lifeline Hospital,Hospital,General Medicine,Khopoli,Maharashtra,India,"Indapur Road, Khopoli",+91-2192-275200,18.7845,73.3478,4.1,N/A
+BPCL Hospital,Hospital,Multi-Specialty,Khopoli,Maharashtra,India,"BPCL Township, Khopoli",+91-2192-274800,18.7790,73.3512,4.3,https://www.bharatpetroleum.in
+Dr. Sanjay Deshmukh,Clinic,General Physician,Khopoli,Maharashtra,India,"Main Market, Khopoli",+91-2192-273567,18.7865,73.3470,4.1,N/A
+Rasayani Rural Hospital,Hospital,General Medicine,Rasayani,Maharashtra,India,"Rasayani Village, Raigad",+91-2192-265012,18.8650,73.1520,3.9,N/A
+Community Health Centre Rasayani,Clinic,Primary Care,Rasayani,Maharashtra,India,"NH-4, Rasayani",+91-2192-265134,18.8642,73.1535,3.8,N/A
+Dr. Kulkarni Clinic,Clinic,Diabetologist,Rasayani,Maharashtra,India,"Rasayani Market, Raigad",+91-2192-265789,18.8655,73.1528,4.0,N/A
+Arogya Hospital,Hospital,Multi-Specialty,Rasayani,Maharashtra,India,"Mumbai-Goa Highway, Rasayani",+91-2192-265500,18.8638,73.1542,4.1,N/A
+Panvel Municipal Hospital,Hospital,Multi-Specialty,Panvel,Maharashtra,India,"Old Panvel, Navi Mumbai",+91-22-27452390,18.9894,73.1150,4.2,N/A
+MGM Hospital Panvel,Hospital,Multi-Specialty,Panvel,Maharashtra,India,"Plot No. 1, Sector 1, New Panvel",+91-22-27450000,18.9932,73.1089,4.4,https://www.mgmhospital.in
+Lifeline Hospital Panvel,Hospital,Multi-Specialty,Panvel,Maharashtra,India,"Sector 19, New Panvel",+91-22-27468000,18.9898,73.1172,4.3,N/A
+Dr. Mehta's Diabetes Centre,Clinic,Diabetologist,Panvel,Maharashtra,India,"Plot No. 5, Sector 10, Panvel",+91-22-27453456,18.9920,73.1095,4.5,N/A
+AIIMS Delhi,Hospital,Multi-Specialty,New Delhi,Delhi,India,"Ansari Nagar, New Delhi",+91-11-26588500,28.5672,77.2100,4.6,https://www.aiims.edu
+Fortis Escorts Heart Institute,Hospital,Cardiac & Endocrinology,New Delhi,Delhi,India,"Okhla Road, New Delhi",+91-11-47135000,28.5355,77.2733,4.5,https://www.fortishealthcare.com
+Max Super Speciality Hospital Saket,Hospital,Multi-Specialty,New Delhi,Delhi,India,"1-2, Press Enclave Road, Saket, New Delhi",+91-11-26515050,28.5244,77.2066,4.6,https://www.maxhealthcare.in
+Apollo Hospital Indraprastha,Hospital,Multi-Specialty,New Delhi,Delhi,India,"Sarita Vihar, New Delhi",+91-11-26925858,28.5355,77.2885,4.7,https://www.apollohospitals.com
+Sir Ganga Ram Hospital,Hospital,Multi-Specialty,New Delhi,Delhi,India,"Rajinder Nagar, New Delhi",+91-11-25750000,28.6406,77.1891,4.5,https://www.sgrh.com
+BLK Super Speciality Hospital,Hospital,Multi-Specialty,New Delhi,Delhi,India,"Pusa Road, Rajinder Nagar, New Delhi",+91-11-30403040,28.6425,77.1847,4.4,https://www.blkhospital.com
+Medanta - The Medicity,Hospital,Multi-Specialty,Gurugram,Haryana,India,"Sector 38, Gurugram",+91-124-4141414,28.4365,77.0503,4.6,https://www.medanta.org
+Artemis Hospital,Hospital,Multi-Specialty,Gurugram,Haryana,India,"Sector 51, Gurugram",+91-124-4511111,28.4281,77.0831,4.5,https://www.artemishospitals.com
+Fortis Memorial Research Institute,Hospital,Multi-Specialty,Gurugram,Haryana,India,"Sector 44, Gurugram",+91-124-4962200,28.4370,77.0556,4.7,https://www.fortishealthcare.com
+Max Hospital Gurugram,Hospital,Multi-Specialty,Gurugram,Haryana,India,"Sector 19, Gurugram",+91-124-6623000,28.4732,77.0261,4.5,https://www.maxhealthcare.in
+Dr. Shashank Joshi,Clinic,Endocrinologist,Mumbai,Maharashtra,India,"Lilavati Hospital, Bandra, Mumbai",+91-22-26567891,19.0544,72.8258,4.8,N/A
+Dr. Anoop Misra,Clinic,Diabetologist,New Delhi,Delhi,India,"Fortis Hospital, New Delhi",+91-11-47135000,28.5355,77.2733,4.7,N/A
+Dr. V Mohan,Clinic,Diabetologist,Chennai,Tamil Nadu,India,"Dr. Mohan's Diabetes Centre, Chennai",+91-44-43968888,13.0569,80.2439,4.9,https://www.drmohansdiabetes.com
+Manipal Hospital HAL,Hospital,Multi-Specialty,Bangalore,Karnataka,India,"98, HAL Airport Road, Bangalore",+91-80-25023344,12.9576,77.6442,4.5,https://www.manipalhospitals.com
+Apollo Hospital Bangalore,Hospital,Multi-Specialty,Bangalore,Karnataka,India,"154/11, Opposite IIM, Bannerghatta Road, Bangalore",+91-80-26304050,12.8892,77.6013,4.6,https://www.apollohospitals.com
+Fortis Hospital Bangalore,Hospital,Multi-Specialty,Bangalore,Karnataka,India,"154/9, Bannerghatta Road, Opp. IIM, Bangalore",+91-80-66214444,12.8891,77.6015,4.4,https://www.fortishealthcare.com
+Columbia Asia Hospital Hebbal,Hospital,Multi-Specialty,Bangalore,Karnataka,India,"Kirloskar Business Park, Hebbal, Bangalore",+91-80-66767000,13.0358,77.5970,4.3,https://www.columbiaasia.com
+Narayana Health City,Hospital,Multi-Specialty,Bangalore,Karnataka,India,"258/A, Bommasandra, Bangalore",+91-80-71222222,12.8050,77.6823,4.6,https://www.narayanahealth.org
+BGS Gleneagles Global Hospital,Hospital,Multi-Specialty,Bangalore,Karnataka,India,"4, Sunkalpalya, Kengeri, Bangalore",+91-80-49467777,12.9082,77.4854,4.4,https://www.bgshospitals.com
+Sakra World Hospital,Hospital,Multi-Specialty,Bangalore,Karnataka,India,"SY NO 52/2, Devarabeesanahalli, Bangalore",+91-80-67301000,12.9350,77.6905,4.5,https://www.sakraworldhospital.com
+St. John's Medical College Hospital,Hospital,Multi-Specialty,Bangalore,Karnataka,India,"Sarjapur Road, Bangalore",+91-80-49467000,12.9560,77.6353,4.4,https://www.stjohns.in
+Dr. Mohan's Diabetes Specialities Centre,Clinic,Diabetologist,Chennai,Tamil Nadu,India,"No 6, Conran Smith Road, Gopalapuram, Chennai",+91-44-43968888,13.0569,80.2439,4.8,https://www.drmohansdiabetes.com
+Apollo Hospital Chennai,Hospital,Multi-Specialty,Chennai,Tamil Nadu,India,"21, Greams Lane, Off Greams Road, Chennai",+91-44-28293333,13.0569,80.2501,4.6,https://www.apollohospitals.com
+Fortis Malar Hospital,Hospital,Multi-Specialty,Chennai,Tamil Nadu,India,"52, 1st Main Road, Gandhi Nagar, Adyar, Chennai",+91-44-42892222,13.0067,80.2570,4.5,https://www.fortishealthcare.com
+MIOT International,Hospital,Multi-Specialty,Chennai,Tamil Nadu,India,"4/112, Mount Poonamallee Road, Chennai",+91-44-42002000,13.0495,80.1963,4.5,https://www.miot.com
+Vijaya Hospital,Hospital,Multi-Specialty,Chennai,Tamil Nadu,India,"180, NSK Salai, Vadapalani, Chennai",+91-44-28151500,13.0509,80.2120,4.4,https://www.vijayahospital.com
+Global Hospitals,Hospital,Multi-Specialty,Chennai,Tamil Nadu,India,"439, Cheran Nagar, Perumbakkam, Chennai",+91-44-44777000,12.9081,80.2370,4.3,https://www.globalhospitalsindia.com
+Ruby Hall Clinic,Hospital,Multi-Specialty,Pune,Maharashtra,India,"40, Sassoon Road, Pune",+91-20-26163636,18.5314,73.8446,4.5,https://www.rubyhall.com
+Jehangir Hospital,Hospital,Multi-Specialty,Pune,Maharashtra,India,"32, Sassoon Road, Pune",+91-20-66305000,18.5325,73.8436,4.4,https://www.jehangirhospital.com
+Deenanath Mangeshkar Hospital,Hospital,Multi-Specialty,Pune,Maharashtra,India,"Erandawane, Pune",+91-20-66969999,18.5077,73.8335,4.6,https://www.deenanathmangheshkar.org
+Columbia Asia Hospital Pune,Hospital,Multi-Specialty,Pune,Maharashtra,India,"Mundhwa, Pune",+91-20-66754000,18.5362,73.9358,4.4,https://www.columbiaasia.com
+Sahyadri Super Speciality Hospital,Hospital,Multi-Specialty,Pune,Maharashtra,India,"Plot No. 30-C, Erandwane, Pune",+91-20-66306300,18.5088,73.8329,4.5,https://www.sahyadrihospital.com
+Aditya Birla Memorial Hospital,Hospital,Multi-Specialty,Pune,Maharashtra,India,"Chinchwad, Pune",+91-20-66806880,18.6298,73.8026,4.3,https://www.adityabirlahospital.com
+Dr. Shriram Naik,Clinic,Diabetologist,Pune,Maharashtra,India,"Deccan Gymkhana, Pune",+91-20-25675432,18.5155,73.8414,4.6,N/A
+Mayo Clinic,Hospital,Multi-Specialty,Rochester,Minnesota,USA,"200 First Street SW, Rochester, MN",+1-507-284-2511,44.0225,-92.4667,4.9,https://www.mayoclinic.org
+Cleveland Clinic,Hospital,Multi-Specialty,Cleveland,Ohio,USA,"9500 Euclid Avenue, Cleveland, OH",+1-216-444-2200,41.5034,-81.6218,4.8,https://www.clevelandclinic.org
+Johns Hopkins Hospital,Hospital,Multi-Specialty,Baltimore,Maryland,USA,"1800 Orleans Street, Baltimore, MD",+1-410-955-5000,39.2971,-76.5929,4.8,https://www.hopkinsmedicine.org
+Massachusetts General Hospital,Hospital,Multi-Specialty,Boston,Massachusetts,USA,"55 Fruit Street, Boston, MA",+1-617-726-2000,42.3631,-71.0686,4.7,https://www.massgeneral.org
+Mount Sinai Hospital,Hospital,Multi-Specialty,New York,New York,USA,"1468 Madison Avenue, New York, NY",+1-212-241-6500,40.7903,-73.9524,4.6,https://www.mountsinai.org
+NewYork-Presbyterian Hospital,Hospital,Multi-Specialty,New York,New York,USA,"525 East 68th Street, New York, NY",+1-212-746-5454,40.7649,-73.9540,4.7,https://www.nyp.org
+Cedars-Sinai Medical Center,Hospital,Multi-Specialty,Los Angeles,California,USA,"8700 Beverly Boulevard, Los Angeles, CA",+1-310-423-3277,34.0754,-118.3773,4.6,https://www.cedars-sinai.org
+UCLA Medical Center,Hospital,Multi-Specialty,Los Angeles,California,USA,"757 Westwood Plaza, Los Angeles, CA",+1-310-825-9111,34.0653,-118.4458,4.7,https://www.uclahealth.org
+Stanford Health Care,Hospital,Multi-Specialty,Palo Alto,California,USA,"300 Pasteur Drive, Palo Alto, CA",+1-650-723-4000,37.4419,-122.1730,4.7,https://www.stanfordhealthcare.org
+UCSF Medical Center,Hospital,Multi-Specialty,San Francisco,California,USA,"505 Parnassus Avenue, San Francisco, CA",+1-415-476-1000,37.7629,-122.4577,4.6,https://www.ucsfhealth.org
+Houston Methodist Hospital,Hospital,Multi-Specialty,Houston,Texas,USA,"6565 Fannin Street, Houston, TX",+1-713-790-3311,29.7094,-95.4013,4.7,https://www.houstonmethodist.org
+Northwestern Memorial Hospital,Hospital,Multi-Specialty,Chicago,Illinois,USA,"251 East Huron Street, Chicago, IL",+1-312-926-2000,41.8954,-87.6221,4.6,https://www.nm.org
+NYU Langone Medical Center,Hospital,Multi-Specialty,New York,New York,USA,"550 First Avenue, New York, NY",+1-212-263-7300,40.7424,-73.9731,4.6,https://nyulangone.org
+Rush University Medical Center,Hospital,Multi-Specialty,Chicago,Illinois,USA,"1653 West Congress Parkway, Chicago, IL",+1-312-942-5000,41.8748,-87.6692,4.5,https://www.rush.edu
+Barnes-Jewish Hospital,Hospital,Multi-Specialty,St. Louis,Missouri,USA,"1 Barnes Jewish Hospital Plaza, St. Louis, MO",+1-314-747-3000,38.6361,-90.2642,4.7,https://www.barnesjewish.org
+Duke University Hospital,Hospital,Multi-Specialty,Durham,North Carolina,USA,"2301 Erwin Road, Durham, NC",+1-919-684-8111,36.0106,-78.9382,4.6,https://www.dukehealth.org
+University of Michigan Hospital,Hospital,Multi-Specialty,Ann Arbor,Michigan,USA,"1500 East Medical Center Drive, Ann Arbor, MI",+1-734-936-4000,42.2926,-83.7196,4.5,https://www.uofmhealth.org
+UPMC Presbyterian,Hospital,Multi-Specialty,Pittsburgh,Pennsylvania,USA,"200 Lothrop Street, Pittsburgh, PA",+1-412-647-2345,40.4414,-79.9584,4.5,https://www.upmc.com
+Brigham and Women's Hospital,Hospital,Multi-Specialty,Boston,Massachusetts,USA,"75 Francis Street, Boston, MA",+1-617-732-5500,42.3357,-71.1070,4.6,https://www.brighamandwomens.org
+The Royal London Hospital,Hospital,Multi-Specialty,London,England,UK,"Whitechapel Road, London",+44-20-7377-7000,51.5171,-0.0600,4.5,https://www.bartshealth.nhs.uk
+St Thomas' Hospital,Hospital,Multi-Specialty,London,England,UK,"Westminster Bridge Road, London",+44-20-7188-7188,51.4987,-0.1180,4.6,https://www.guysandstthomas.nhs.uk
+King's College Hospital,Hospital,Multi-Specialty,London,England,UK,"Denmark Hill, London",+44-20-3299-9000,51.4689,-0.0931,4.5,https://www.kch.nhs.uk
+Royal Free Hospital,Hospital,Multi-Specialty,London,England,UK,"Pond Street, Hampstead, London",+44-20-7794-0500,51.5548,-0.1658,4.4,https://www.royalfree.nhs.uk
+University College Hospital,Hospital,Multi-Specialty,London,England,UK,"235 Euston Road, London",+44-34-5155-5000,51.5246,-0.1340,4.5,https://www.uclh.nhs.uk
+Chelsea and Westminster Hospital,Hospital,Multi-Specialty,London,England,UK,"369 Fulham Road, London",+44-20-3315-8000,51.4815,-0.1849,4.4,https://www.chelwest.nhs.uk
+Imperial College Healthcare,Hospital,Multi-Specialty,London,England,UK,"Praed Street, Paddington, London",+44-20-3312-6666,51.5174,-0.1750,4.5,https://www.imperial.nhs.uk
+Toronto General Hospital,Hospital,Multi-Specialty,Toronto,Ontario,Canada,"200 Elizabeth Street, Toronto, ON",+1-416-340-3155,43.6594,-79.3876,4.7,https://www.uhn.ca
+Sunnybrook Health Sciences Centre,Hospital,Multi-Specialty,Toronto,Ontario,Canada,"2075 Bayview Avenue, Toronto, ON",+1-416-480-6100,43.7233,-79.3767,4.6,https://www.sunnybrook.ca
+St. Michael's Hospital,Hospital,Multi-Specialty,Toronto,Ontario,Canada,"30 Bond Street, Toronto, ON",+1-416-360-4000,43.6533,-79.3765,4.5,https://www.stmichaelshospital.com
+Mount Sinai Hospital Toronto,Hospital,Multi-Specialty,Toronto,Ontario,Canada,"600 University Avenue, Toronto, ON",+1-416-596-4200,43.6565,-79.3894,4.6,https://www.sinaihealth.ca
+Toronto Western Hospital,Hospital,Multi-Specialty,Toronto,Ontario,Canada,"399 Bathurst Street, Toronto, ON",+1-416-603-5800,43.6533,-79.4084,4.5,https://www.uhn.ca
+Women's College Hospital,Hospital,Multi-Specialty,Toronto,Ontario,Canada,"76 Grenville Street, Toronto, ON",+1-416-323-6400,43.6621,-79.3871,4.4,https://www.womenscollegehospital.ca
+Royal Prince Alfred Hospital,Hospital,Multi-Specialty,Sydney,New South Wales,Australia,"Missenden Road, Camperdown, Sydney",+61-2-9515-6111,-33.8896,151.1819,4.5,https://www.slhd.nsw.gov.au
+St Vincent's Hospital Sydney,Hospital,Multi-Specialty,Sydney,New South Wales,Australia,"390 Victoria Street, Darlinghurst, Sydney",+61-2-8382-1111,-33.8795,151.2197,4.6,https://www.svha.org.au
+Prince of Wales Hospital,Hospital,Multi-Specialty,Sydney,New South Wales,Australia,"High Street, Randwick, Sydney",+61-2-9382-2222,-33.9195,151
