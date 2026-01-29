@@ -265,9 +265,14 @@ div[data-testid="metric-container"] * {
         color: #ffffff !important;
     }
             
+            /* Increase heading sizes globally */
+h1 { font-size: 38px !important; }
+h2 { font-size: 30px !important; }
+h3 { font-size: 24px !important; }
+
+            
 </style>
 """, unsafe_allow_html=True)
-
 
 
 
