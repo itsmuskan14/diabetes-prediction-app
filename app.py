@@ -19,7 +19,33 @@ st.markdown("""
     header[data-testid="stHeader"] {
         background: transparent !important;
     }
-  
+  /* --- HEADING SIZE FIX --- */
+    
+    /* Force H1 (Titles) to be large */
+    h1, .main h1 {
+        font-size: 36px !important;
+        font-weight: 700 !important;
+    }
+    
+    /* Force H2 (Subheaders) to be medium-large */
+    h2, .main h2 {
+        font-size: 28px !important;
+        font-weight: 600 !important;
+        margin-top: 20px !important;
+    }
+    
+    /* Force H3 (Section Titles) */
+    h3, .main h3 {
+        font-size: 22px !important;
+        font-weight: 600 !important;
+    }
+    
+    /* Force H4 (Small titles inside cards) */
+    h4, .main h4 {
+        font-size: 18px !important;
+        font-weight: 600 !important;
+    }
+            
 /* =====================================================
    1. FULL APP BACKGROUND (Dark Blue Gradient)
 ===================================================== */
